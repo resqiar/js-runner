@@ -1,4 +1,4 @@
-# js-parser
+# js-runner
 
 To install dependencies:
 
